@@ -1,0 +1,6 @@
+[submodule "cutedogs_backend"]
+	path = cutedogs_backend
+	url = https://github.com/ajbt200128/cutedogs_backend.git
+[submodule "cutedogs_frontend"]
+	path = cutedogs_frontend
+	url = https://github.com/ajbt200128/cutedogs_frontend.git
